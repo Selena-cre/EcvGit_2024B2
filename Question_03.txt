@@ -1,2 +1,2 @@
 A quoi sert Git ?
--> 
+-> A gérer les versions d'un ou plusieurs fichier(s)
